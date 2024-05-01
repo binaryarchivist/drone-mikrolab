@@ -17,3 +17,9 @@ Place the drone in a flyable zone and run command :
 
 
 python take_off.py --connect /dev/ttyS0
+
+
+
+For File Upload
+
+pip install paho-mqtt
